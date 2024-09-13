@@ -8,10 +8,6 @@ This project aims to predict whether a user of KKBOX, a music streaming platform
 
 The dataset is available on Kaggle and can be accessed [here](https://www.kaggle.com/competitions/kkbox-music-recommendation-challenge/data).
 
-## GitHub Repository
-
-The complete project code and documentation are available in our [GitHub repository](https://github.com/SSaklecha/ChurnPred).
-
 ## Requirements
 
 - Python Version: 3.10.6
